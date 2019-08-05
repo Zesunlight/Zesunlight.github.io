@@ -3,15 +3,15 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: 一朵深渊
+title: Student
+email: 2714616793@qq.com
 phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+website: https://zesunlight.github.io/
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Zesunlight
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
@@ -24,7 +24,7 @@ googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: _test/images/travis.png
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
